@@ -3,7 +3,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 /**
- * Created by chanakau on 5/22/2016.
+ * Created by sameeraj on 5/22/2016.
  */
 public class testAppTest
 {
