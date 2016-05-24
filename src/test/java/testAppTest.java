@@ -11,6 +11,6 @@ public class testAppTest
     public void firstTest()
     {
         WebDriver driver=new FirefoxDriver();
-        driver.get("http://google.com");
+        driver.get("http://mail.google.com");
     }
 }
